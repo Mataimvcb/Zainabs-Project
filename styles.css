@@ -1,0 +1,50 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color:aliceblue;
+    color: khaki;
+    padding: 128px 16px;
+    font-family: 'Bungee Spice', cursive;
+   
+}
+body{
+    background-color:antiquewhite;
+    color:lightseagreen;
+}
+p{
+    font-size: 30px;
+}
+img{
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 60px;
+    
+}
+h2{
+    font-size: 33px;
+    font-family: 'Bungee Spice', cursive;
+}
+h3{
+    font-size: 23px;
+    background-color:azure;
+    color:green;
+    font-family: 'Bungee Spice', cursive;
+    
+}
+p{
+    font-family: 'Lobster', cursive;
+}
+.n{
+    width:80%;
+}
+img{
+    border-radius: 50px;
+}
+.section{
+    border: 5px khaki inset;
+    margin:2px;
+}
